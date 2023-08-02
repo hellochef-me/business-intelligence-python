@@ -42,7 +42,7 @@
     "REDSHIFT_PORT = \"5439\"\n",
     "REDSHIFT_DBNAME = \"hellochef\"\n",
     "REDSHIFT_USER = \"jairaj\"\n",
-    "REDSHIFT_PASSWORD = \"wftZT2ZKRzMBJ4YGHUPV1xE\"\n",
+    "REDSHIFT_PASSWORD = \"\"\n",
     "\n",
     "conn = psycopg2.connect(\n",
     "    host=REDSHIFT_ENDPOINT,\n",
